@@ -1,1 +1,0 @@
-/home/stefanomarton/.config/i3
