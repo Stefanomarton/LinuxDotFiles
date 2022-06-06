@@ -7,3 +7,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/Stefanomarton/nvim.git
+[submodule "qutebrowser"]
+	path = qutebrowser
+	url = https://github.com/Stefanomarton/qutebrowser.git
