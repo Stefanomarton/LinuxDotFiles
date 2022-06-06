@@ -13,3 +13,6 @@
 [submodule "zathura"]
 	path = zathura
 	url = git@github.com:Stefanomarton/zathura.git
+[submodule "ranger"]
+	path = ranger
+	url = git@github.com:Stefanomarton/ranger.git
