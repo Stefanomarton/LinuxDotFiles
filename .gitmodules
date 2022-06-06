@@ -10,3 +10,6 @@
 [submodule "qutebrowser"]
 	path = qutebrowser
 	url = https://github.com/Stefanomarton/qutebrowser.git
+[submodule "zathura"]
+	path = zathura
+	url = git@github.com:Stefanomarton/zathura.git
