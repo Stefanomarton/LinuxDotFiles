@@ -16,3 +16,6 @@
 [submodule "ranger"]
 	path = ranger
 	url = git@github.com:Stefanomarton/ranger.git
+[submodule "awesome-desktop"]
+	path = awesome-desktop
+	url = git@github.com:Stefanomarton/awesome-desktop.git
