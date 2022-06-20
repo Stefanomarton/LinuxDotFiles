@@ -22,3 +22,6 @@
 	path = awesome-desktop
 	url = git@github.com:Stefanomarton/awesome-desktop.git
     fetchRecurseSubmodules = True
+[submodule "awesome"]
+	path = awesome
+	url = git@github.com:Stefanomarton/awesome.git
