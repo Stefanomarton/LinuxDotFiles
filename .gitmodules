@@ -1,21 +1,24 @@
-[submodule "i3Config"]
-	path = i3Config
-	url = https://github.com/Stefanomarton/i3Config.git
 [submodule "i3"]
 	path = i3
 	url = https://github.com/Stefanomarton/i3.git
+    fetchRecurseSubmodules = True
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/Stefanomarton/nvim.git
+    fetchRecurseSubmodules = True
 [submodule "qutebrowser"]
 	path = qutebrowser
 	url = https://github.com/Stefanomarton/qutebrowser.git
+    fetchRecurseSubmodules = True
 [submodule "zathura"]
 	path = zathura
 	url = git@github.com:Stefanomarton/zathura.git
+    fetchRecurseSubmodules = True
 [submodule "ranger"]
 	path = ranger
 	url = git@github.com:Stefanomarton/ranger.git
+    fetchRecurseSubmodules = True
 [submodule "awesome-desktop"]
 	path = awesome-desktop
 	url = git@github.com:Stefanomarton/awesome-desktop.git
+    fetchRecurseSubmodules = True
